@@ -24,7 +24,7 @@ img{
   word-break: break-all;
   line-height: 1;
   text-transform: uppercase;
-  max-width: 5ch;
+  max-width: 4ch;
 }
 
 @media(max-width: 800px){
